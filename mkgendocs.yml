@@ -1,0 +1,23 @@
+sources_dir: docs
+templates_dir: templates
+repo: https://github.com/wbrandenburger/TestEnv
+version: 0.1.0
+
+# pages:
+#   - page: "functions/json_helper.md"
+#     source: "kpmsdev/json_helper.py"
+#     functions:
+#       - sort_dict_by_reference
+#       - flatten_dict
+#       - sort_flattened_dict_by_reference
+#       - numkey
+#       - dumps
+#       - dump_oneline
+#   - page: "functions/index.md"
+#     source: "kpmsdev/json_helper.py"
+#     index: True
+#   - page: "scripts/jsondiff.md"
+#     source: "kpmsdev/cli/jsondiff.py"
+#     functions:
+#       - compare
+#       - prettify
